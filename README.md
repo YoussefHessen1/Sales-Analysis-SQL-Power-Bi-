@@ -114,7 +114,8 @@ The cleaned and modeled data was imported into Power BI using **Import Mode** fo
 - Exported PDF report for easy sharing and presentation
 
 📎 File:
-- `Sales Analysis.pdf`
+-[Sales Analysis-cropped.pdf](https://github.com/user-attachments/files/24769791/Sales.Analysis-cropped.pdf)
+
 
 ---
 
