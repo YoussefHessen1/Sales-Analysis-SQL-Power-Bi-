@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Project Overview
-This project presents an end-to-end data analytics workflow for a **Retail Sales dataset**, starting from raw data cleaning and transformation in **SQL Server**, through data modeling and analysis, and ending with an interactive **Power BI dashboard** exported as a PDF.
+This project presents an end-to-end data analytics workflow for a **SuperStore Sales dataset**, starting from raw data cleaning and transformation in **SQL Server**, through data modeling and analysis, and ending with an interactive **Power BI dashboard** exported as a PDF.
 
 The main goal of the project is to help decision-makers understand sales performance, profitability drivers, customer behavior, and product efficiency using clean, well-structured data and clear analytical insights.
 
